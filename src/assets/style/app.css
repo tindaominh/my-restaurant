@@ -1,0 +1,16 @@
+*, ::before, ::after {
+  box-sizing: border-box;
+}
+
+html {
+  line-height: 1.15;
+  text-size-adjust: 100%;
+  font-family: Roboto,Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  background-color: rgb(244, 244, 244);
+}
+
+.app {
+  position: "relative";
+  z-index: 999;
+}
